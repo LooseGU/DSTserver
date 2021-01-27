@@ -1,0 +1,2 @@
+[00:01:01]: [Join Announcement] 孤风
+[00:01:10]: [Leave Announcement] 孤风
